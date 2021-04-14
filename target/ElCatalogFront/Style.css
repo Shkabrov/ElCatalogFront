@@ -1,0 +1,263 @@
+body{
+    background-color: whitesmoke;
+}
+
+header {
+    position: absolute;
+    width: 100%;
+    height: 232px;
+    left: 0px;
+    top: 0px;
+    background-color: white;
+}
+
+#rectangle1{
+    width: 100%;
+    height: 60px;
+    background: linear-gradient(45deg, orange, red);
+}
+
+#rectangle2{
+    width: 100%;
+    height: 60px;
+    background: whitesmoke;
+}
+
+#navBar1 {
+    width: 10%;
+    margin-right: 10%;
+    padding: 4px;
+    float: right;
+}
+
+.navig {
+    width: 100px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background: #FFFFFF;
+    border-radius: 5px;
+}
+
+.logo {
+    Position:absolute;
+    top: 0px;
+    left: 48%;
+    display: flex;
+    text-align: center;
+}
+
+.registerPeople {
+    margin-left: 25%;
+    margin-top: 10px;
+    width: 50%;
+    height: 35px;
+    padding-left: 10px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    outline: none;
+    background: cornflowerblue;
+    color: black;
+}
+
+.loginPeople {
+    margin-left: 30%;
+    margin-top: 10px;
+    width: 40%;
+    height: 35px;
+    padding-left: 10px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    outline: none;
+    background: cornflowerblue;
+    color: black;
+}
+
+#searchBar1 {
+    margin-left: 35%;
+    margin-top: 62px;
+    width: 29.20%;
+    height: 31px;
+    padding-left: 10px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    outline: none;
+    background: white;
+    color: black;
+}
+
+#bookName {
+    margin-left: 35%;
+    margin-top: 46px;
+    width: 30%;
+    height: 35px;
+    padding-left: 10px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    outline: none;
+    background: white;
+    color: black;
+}
+
+.searchingBari {
+    Position:absolute;
+    margin-top: 5px;
+    left:46.8%;
+    top: 122px;
+    display: flex;
+    height: 35px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    outline: none;
+    background: white;
+}
+
+.bookButton {
+    Position:absolute;
+    margin-top: 5px;
+    left:46.4%;
+    top: 372px;
+    display: flex;
+    height: 35px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    outline: none;
+    background: white;
+}
+
+.searchingBar {
+    Position:absolute;
+    right:32.7%;
+    top: 122px;
+    display: flex;
+    height: 35px;
+    padding-left: 10px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    outline: none;
+    background: white;
+}
+
+#authentication {
+    position: absolute;
+    width: 20%;
+    margin-left: 40%;
+    height: 350px;
+    display: flex;
+    margin-top: 240px;
+    background-color: white;
+}
+
+#register {
+    position: absolute;
+    width: 20%;
+    margin-left: 40%;
+    height: 350px;
+    display: flex;
+    margin-top: 240px;
+    background-color: white;
+}
+
+#main {
+    width: 50%;
+    margin-left: 25%;
+    height: 422px;
+    display: flex;
+    margin-top: 248px;
+    background-color: white;
+}
+
+#searching {
+    width: 50%;
+    margin-left: 25%;
+    height: 422px;
+    display: flex;
+    margin-top: 248px;
+    background-color: white;
+}
+
+#reserve {
+    width: 50%;
+    margin-left: 25%;
+    height: 422px;
+    display: flex;
+    margin-top: 248px;
+    background-color: white;
+}
+
+#login {
+    margin-left: 15%;
+    margin-top: 20px;
+    width: 70%;
+    height: 35px;
+    padding-left: 10px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    outline: none;
+    background: white;
+    color: black;
+}
+
+#password {
+    margin-left: 15%;
+    margin-top: 10px;
+    width: 70%;
+    height: 35px;
+    padding-left: 10px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    outline: none;
+    background: white;
+    color: black;
+}
+
+#name {
+    margin-left: 15%;
+    margin-top: 10px;
+    width: 70%;
+    height: 35px;
+    padding-left: 10px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    outline: none;
+    background: white;
+    color: black;
+}
+
+#lastName {
+    margin-left: 15%;
+    margin-top: 10px;
+    width: 70%;
+    height: 35px;
+    padding-left: 10px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    outline: none;
+    background: white;
+    color: black;
+}
+
+#address {
+    margin-left: 15%;
+    margin-top: 10px;
+    width: 70%;
+    height: 35px;
+    padding-left: 10px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    outline: none;
+    background: white;
+    color: black;
+}
+
+.footer {
+    position: absolute;
+    width: 100%;
+    height: 60px;
+    display: flex;
+    top: 690px;
+    left: 0px;
+}
+
